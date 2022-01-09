@@ -31,7 +31,7 @@ Remove the USB protector on the back right corner of the **camera** by pulling o
 
 Screw tightness: *partial*
 
-Attach the **camera support** to the red side of the **bottom plate** with two **4-40 7/16 screws (D)** using a *small Philips screwdriver*.  The red side of the **camera support** should face upwards, and the screws should tap into the **bottom plate** with the head touching the red side of the camera support.  Only partially tighten the screws so that the **camera support** can still jiggle in place.
+Attach the **camera support** to the **base plate** with two **4-40 7/16 screws (D)** using a *small Philips screwdriver*.  The **camera support** should face upwards, and the screws should tap into the **bottom plate** with the head touching the top side of the camera support.  Only partially tighten the screws so that the **camera support** can still jiggle in place.
 
 .. image:: /assets/img/assemblySteps/CAD/2-2.*
   :width: 49 %
@@ -43,7 +43,7 @@ Attach the **camera support** to the red side of the **bottom plate** with two *
 | **Warning**: *do not remove the protective film covering the camera lens*
 | Screw tightness: *partial*
 
-Attach the **camera** to the **bottom plate** with a **1/4-20 1/2 screw (A)** using a *large Philips screwdriver*.  The head of the screw should touch the uncolored side of the **bottom plate**, and the rod of the screw should pass through the bottom plate and into the threaded hole on the bottom of the **camera**.  The **camera** should face off the front of the car, away from the **camera support**.  Only partially tighten the screw so that the **camera** can still jiggle in place.
+Attach the **camera** to the **bottom plate** with a **1/4-20 1/2 screw (A)** using a *large Philips screwdriver*.  The head of the screw should touch the underside of the **base plate**, and the rod of the screw should pass through the base plate and into the threaded hole on the bottom of the **camera**.  The **camera** should face off the front of the car, away from the **camera support**.  Only partially tighten the screw so that the **camera** can still jiggle in place.
 
 .. image:: /assets/img/assemblySteps/CAD/2-3.*
   :width: 80%
@@ -59,7 +59,7 @@ Attach the **camera** to the **bottom plate** with a **1/4-20 1/2 screw (A)** us
 
 Screw tightness: *moderate*
 
-At this point, the **camera** and **camera support** should still jiggle in place.  Align the **camera** so that it is parallel with the front edge of the car and points directly forward.  Carefully hold the **camera** and tighten the **1/4-20 1/4 screw (A)** on the uncolored side of the **bottom plate** to hold it in place.  If the **camera** rotates while you are tightening the screw, you may need to loosen the screw and try again.
+At this point, the **camera** and **camera support** should still jiggle in place.  Align the **camera** so that it is parallel with the front edge of the car and points directly forward.  Carefully hold the **camera** and tighten the **1/4-20 1/4 screw (A)** on the underside of the **base plate** to hold it in place.  If the **camera** rotates while you are tightening the screw, you may need to loosen the screw and try again.
 
 Once the **camera** is secure, press the **camera support** against the back of the camera and tighten the two **4-40 7/16 screws (E)** to hold it in place.  Remember to tighten the two screws in multiple stages.
 
