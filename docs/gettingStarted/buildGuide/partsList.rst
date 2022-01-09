@@ -16,8 +16,6 @@ Laser Cut Patterns
 
 **Bottom Cut Pattern**: :download:`BottomCutPattern.DXF </assets/cad/BottomCutPattern.DXF>` or :download:`BottomCutPattern.SLDPRT </assets/cad/BottomCutPattern.SLDPRT>`
 
-**Top Cut Pattern**: :download:`TopCutPattern.DXF </assets/cad/TopCutPattern.DXF>` or :download:`TopCutPattern.SLDPRT </assets/cad/TopCutPattern.SLDPRT>`
-
 ===========
 Electronics
 ===========
