@@ -14,7 +14,7 @@ New parts used in this step (see the :ref:`parts_list` for details):
 
 Screw tightness: *very gentle*
 
-Use a *3/16 hex screwdriver* to screw two **2-56 MF standoffs** into the two holes shown on uncolored side of the **bottom plate**.  These holes are toward the front of the car but behind the camera.
+Use a *3/16 hex screwdriver* to screw two **2-56 MF standoffs** into the two holes shown on underside of the **base plate**.  These holes are toward the front of the car but behind the camera.
 
 .. image:: /assets/img/assemblySteps/CAD/4-1.*
   :width: 59 %
