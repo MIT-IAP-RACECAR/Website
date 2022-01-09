@@ -81,14 +81,8 @@ Electronics
 | |jetsonNano|                                              | | **Jetson Nano**                               |
 |                                                           | | The main computer of the RACECAR-MN           |
 +-----------------------------------------------------------+-------------------------------------------------+
-| |speaker|                                                 | | **Speaker**                                   |
-|                                                           | | Produces sound                                |
-+-----------------------------------------------------------+-------------------------------------------------+
 | |monitor|                                                 | | **Monitor**                                   |
 |                                                           | | The screen used by the Jetson                 |
-+-----------------------------------------------------------+-------------------------------------------------+
-| |arduino|                                                 | | **Arduino**                                   |
-|                                                           | | A microcontroller for controlling hardware    |
 +-----------------------------------------------------------+-------------------------------------------------+
 | |wifiDongle|                                              | | **Wi-Fi adaptor**                             |
 |                                                           | | Allows the Jetson to connect to Wi-Fi         |
@@ -184,11 +178,8 @@ Hardware
 | |zipTies|                                                 | | **Zip ties**                                  |
 |                                                           | | Secures cables                                |
 +-----------------------------------------------------------+-------------------------------------------------+
-| |spring|                                                  | | **Speaker**                                   |
-|                                                           | | Produces sound                                |
-+-----------------------------------------------------------+-------------------------------------------------+
-| |cornerBracket|                                           | | **Corner bracket**                            |
-|                                                           | | Secures the Monitor                           |
+| |spring|                                                  | | **Spring**                                    |
+|                                                           | | Supports electronics                          |
 +-----------------------------------------------------------+-------------------------------------------------+
 | |acrylic|                                                 | | **Acrylic**                                   |
 |                                                           | | Material used for frames                      |
@@ -274,6 +265,4 @@ Laser Cut Parts
 |cameraSupport|                                  Secures the camera in place.
 |batteryPlate|                                   Holds up the battery.
 |batteryRing|                                    Prevents the battery from sliding out.
-|topPlate|                                       Main top plate for the car.
-|monitorSupport|                                 Holds the monitor in place.
 ================================================ ========
