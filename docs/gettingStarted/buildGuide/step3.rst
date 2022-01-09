@@ -21,7 +21,7 @@ As a reminder, an FF standoff looks like this.
 """""""""""""""""""""""""
 Screw tightness: *tight*
 
-Place the **battery ring** on top of the red side of the **battery plate** such that the six holes align and the red side of both pieces face upwards.  One at a time, place a **4-40 5/8 screw (C)** through one hole and secure the other side with a **4-40 FF standoff**.  The head of the screw should touch the uncolored sid of the **battery plate**, and the **4-40 FF standoff** should touch the red side of the **battery ring**.  For now, you can simply tighten the standoff by hand.  Repeat this process for all six holes.
+Place the **battery ring** on top of the **battery plate** such that the six holes align and both pieces face upwards.  One at a time, place a **4-40 5/8 screw (C)** through one hole and secure the other side with a **4-40 FF standoff**.  The head of the screw should touch the underside of the **battery plate**, and the **4-40 FF standoff** should touch the top side of the **battery ring**.  For now, you can simply tighten the standoff by hand.  Repeat this process for all six holes.
 
 .. image:: /assets/img/assemblySteps/CAD/3-2.*
   :width: 59 %
@@ -38,7 +38,7 @@ Next, tighten the screws using a crisscross pattern with multiple stages.  Hold 
 """""""""""""""""""""""""
 Screw tightness: *tight*
 
-Align the battery cradle created in step 3.1 with the six holes shown on the **bottom plate**.  The standoffs should touch the uncolored side of the **bottom plate**.  Hold each standoff in place with a **4-40 7/16 screw (D)** (6 total).  Use a *small Philips screwdriver* to tighten the screws in a crisscross pattern with multiple stages.
+Align the battery cradle created in step 3.1 with the six holes shown on the **base plate**.  The standoffs should touch the underside of the **base plate**.  Hold each standoff in place with a **4-40 7/16 screw (D)** (6 total).  Use a *small Philips screwdriver* to tighten the screws in a crisscross pattern with multiple stages.
 
 .. image:: /assets/img/assemblySteps/CAD/3-3.*
   :width: 49 %
