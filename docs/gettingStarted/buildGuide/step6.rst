@@ -1,35 +1,28 @@
 .. _build_guide_step_6:
 
-Step 6: Main Standoffs
+Step 6: LIDAR
 ============================================
 
-Screw tightness: *very tight*
+Screw tightness: *gentle*
 
 New parts used in this step (see the :ref:`parts_list` for details):
 
-* Six **8-32 FF standoffs**
-* Six **8-32 9/16 screws (B)**
-* Six **washers**
+* **LIDAR**
+* Four **M2.5x0.45 12mm screws (H)**
 
-First, place a **washer** over each of the six **8-32 9/16 screws (B)** as shown in the picture below.
+Align the four legs of the **LIDAR** with the holes shown on the top side of the **base plate**, which are toward the front of the car behind the camera installed in Step 2.  Screw a **M2.5x0.45 12mm screw** into each leg (4 total) such that the head of each screw touches the underside of the **base plate**.  Be sure to tighten the screws in multiple stages using a crisscross pattern.
 
-.. image:: /assets/img/assemblySteps/6-1.*
-  :width: 60%
-  :align: center
-
-Next, identify the six holes around the edge of the **bottom plate** shown in the pictures below.  For each hole, place an **8-32 9/16 screw (B)** with a **washer** through the hole such that the washer and screw head touch the uncolored side of the **bottom plate**.  On the red side of the **bottom plate**, secure the screw with an **8-32 FF standoff**, which you tightening by hand for now.
-
-.. image:: /assets/img/assemblySteps/CAD/6-1.*
+.. image:: /assets/img/assemblySteps/CAD/9-1_Top.*
   :width: 49 %
-.. image:: /assets/img/assemblySteps/CAD/6-1_Bottom.*
+.. image:: /assets/img/assemblySteps/CAD/9-1_Bottom.*
   :width: 49 %
 
-.. image:: /assets/img/assemblySteps/6-2.*
-  :width: 60%
+.. image:: /assets/img/assemblySteps/9-1_Front.*
+  :width: 80%
   :align: center
 
-Next, tighten the six screws using a crisscross pattern with multiple stages.  To tighten a screw, hold the base of the standoff with a *wrench* such that the *wrench* also touches the **bottom plate** as shown in the picture below.  Then, use a *large Philips screwdriver* to tighten the screw from the other side.  On the final stage of your crisscross pattern, tighten the screws as tightly as possible without injuring yourself or stripping the screw.
+Finally, connect the colorful LIDAR cable from the **LIDAR PCB** to the **LIDAR** as shown in the picture below.  The cable should feed through one of the large holes of the **base plate**.
 
-.. image:: /assets/img/assemblySteps/6-2_Tools.*
+.. image:: /assets/img/assemblySteps/9-1_Ortho.*
   :width: 80%
   :align: center

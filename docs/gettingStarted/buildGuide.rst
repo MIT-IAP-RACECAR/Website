@@ -23,11 +23,6 @@ This build guide will walk you through the steps needed to assemble your RACECAR
    buildGuide/step7
    buildGuide/step8
    buildGuide/step9
-   buildGuide/step10
-   buildGuide/step11
-   buildGuide/step12
-   buildGuide/step13
-   buildGuide/step14
 
 ==========================
 Before you Begin
