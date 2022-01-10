@@ -5,8 +5,7 @@ Step 8: Battery
 
 New parts used in this step (see the :ref:`parts_list` for details):
 
-* One **batteries**
-* **velcro**
+* One **battery**
 
 8.1 Install Battery
 """""""""""""""""
