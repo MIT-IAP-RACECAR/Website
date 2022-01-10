@@ -82,6 +82,10 @@ Connect the steering servo and motor to the PWM.
 .. image:: /assets/img/assemblySteps/9-3_Wire1.*
   :width: 49%
 
+
+9.4 Install Base Plate
+"""""""""""""""""""""""""""
+
 Install the **base plate** on the chassis by placing the round holes over the cotter pin support posts. The camera should be facing forward on the car. 
 
 .. image:: /assets/img/assemblySteps/9-3_Base.*
