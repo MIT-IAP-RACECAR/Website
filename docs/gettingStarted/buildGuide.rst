@@ -5,7 +5,7 @@ Assembling your Car
 
 This build guide will walk you through the steps needed to assemble your RACECAR-MN.
 
-.. image:: /assets/img/racecarMnFullCad.*
+.. image:: /assets/img/racecarMNFull2.*
   :width: 100%
   :align: center
 
