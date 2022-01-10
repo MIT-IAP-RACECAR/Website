@@ -1,88 +1,36 @@
 .. _build_guide:
 
-Assembling your Car
-============================================
+RACECAR Hardware
+================================================================================================================
 
-This build guide will walk you through the steps needed to assemble your RACECAR-MN.
+`Bill of Materials <https://drive.google.com/open?id=1_VkuwM4j3yUIzZbNGKJk5iTojlEPtnPyxDwud2svyNE>`_
+----------------------------------------------------------------------------------------------------------------
+RACECAR Mounting Plate CAD Files (`download <https://drive.google.com/drive/folders/1NnhHsqurChNSBMjVC_DKC72OVTiFB8WH>`_)
 
-.. image:: /assets/img/racecarMNFull2.*
-  :width: 100%
-  :align: center
+|bill_of_materials|
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Steps:
+.. |bill_of_materials| raw:: html
 
-   buildGuide/partsList
-   buildGuide/step1
-   buildGuide/step2
-   buildGuide/step3
-   buildGuide/step4
-   buildGuide/step5
-   buildGuide/step6
-   buildGuide/step7
-   buildGuide/step8
-   buildGuide/step9
+   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDkmZ3zwEJ0qiUlkMjTPAR6CEoVHEZpUmMeOpnGf4P7-GXMCtl-hnxdir62NCUg31zVTKrnPASpWBY/pubhtml?widget=true&amp;headers=false" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-==========================
-Before you Begin
-==========================
 
-Parts List
-""""""""""
+`Parts Reference <https://drive.google.com/open?id=127jLZJWT-LyYTPfUTLrZreGLeHtRsFCoxsgmiJG9umg>`_
+----------------------------------------------------------------------------------------------------------------
+|racecar_parts_embed|
 
-Throughout this assembly guide, part names are listed in bold, such as **Jetson Nano** or **4-40 1/4 screw (E)**, and tools are listed in italics, such as *3/16 hex screwdriver* or *wire cutters*.  To help identify these parts and tools you can refer to the :ref:`parts_list` page of this website.  We recommend opening the parts list in a separate tab so that you can easily refer to it throughout the assembly.
+.. |racecar_parts_embed| raw:: html
 
-Threading and Tapping
-"""""""""""""""""""""
+   <iframe src="https://docs.google.com/document/d/e/2PACX-1vSrINZKW9lj7AvFg4brFIL4pRM__9A8oF0MJ9f5P1OJTUNq8ZlUA57NAfvQAOh8ym_ChlR8M2y_0uTg/pub?embedded=true" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Most of the RACECAR-MN is held together with *threads*, which are spirals of metal which lock together to hold something in place.  Specifically, a *threaded rod* (such as a screw) is turned into a *threaded hole* (such as a locknut) until the threads are tightly pressed against each other, holding the rod in place.  Often times, a threaded rod will pass through multiple holes, but *only the last hole should be threaded*; every other hole in between should be larger than the threads of the rod such that the rod can pass through easily.
 
-In some cases, the threaded hole will come *pre-threaded* (meaning the threads are already cut for us), such as in a locknut or a standoff.  In other cases, the final hole unthreaded but smaller than the threads of the rod.  Then, we can *tap* the hole by turning the rod into the hole, which automatically cuts the correct threads into the hole.  In the RACECAR-MN, you will tap several screws and MF standoffs into the plastic frame.
+`Assembly Instructions <https://drive.google.com/open?id=10djr9rF30_IfCtFhpvcpBh4owcSxtMIHP9qJA1nfyzw>`_
+----------------------------------------------------------------------------------------------------------------
+|hardware_build_embed|
 
-.. image:: /assets/img/diagrams/threads.*
-  :width: 49 %
-.. image:: /assets/img/diagrams/tapping.*
-  :width: 49 %
+.. |hardware_build_embed| raw:: html
 
-The left diagram shows a screw tightened into the pre-threaded hole of a locknut.  The right diagram shows a screw tapped into a plastic plate.
-
-Common hardware
-""""""""""""""""""""
-
-The following pieces of hardware are frequently used in the RACECAR-MN.
-
-.. image:: /assets/img/diagrams/hardware1.*
-  :width: 100%
-  :align: center
-
-.. image:: /assets/img/diagrams/hardware2.*
-  :width: 100%
-  :align: center
-
-Tightening Pattern
-""""""""""""""""""
-
-When two parts are held together with multiple screws, it is important to tighten the screws in multiple steps using a *crisscross pattern*.  This consists of the following steps:
-
-1. Tighten each screw very loosely such that the parts can still move around freely.
-2. Select one screw and tighten it gently.
-3. Select the screw farthest from the screw chosen in step 2 and tighten it gently.
-4. Repeat step 3 for the remaining screws.
-5. Repeat the same tightening pattern used in steps 2-4 to tighten all of the screws *again*, this time tightening them to the desired tension.
-
-.. figure:: /assets/img/diagrams/screwTighten4.*
-  :width: 40%
-  :align: center
-
-  This diagram shows the order for tightening a pattern of four screws.  Remember to repeat the pattern multiple times.
-
-.. figure:: /assets/img/diagrams/screwTighten6.*
-  :width: 60%
-  :align: center
-
-  This diagram shows the order for tightening a pattern of six screws.  Remember to repeat the pattern multiple times.
-
+   <iframe src="https://docs.google.com/document/d/e/2PACX-1vQPd20Ci4KC-pw0u30dCFFMjNz6e8w8rDMlWx5Or-aCI0Sndxzp4JlX4gyv_bO6x7E2btHO_WkO1I-_/pub?embedded=true" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+   
 Tightness
 """""""""
 
