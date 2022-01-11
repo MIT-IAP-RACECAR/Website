@@ -9,8 +9,8 @@ This page will walk you through the steps needed to set up the operating system 
 
 .. |software_setup_embed| raw:: html
 
-   <iframe src="https://docs.google.com/document/d/e/1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw/pub?embedded=true" frameborder="0" width="700" height="800"  allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-   
+   <iframe src="https://docs.google.com/document/d/1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw/pub?embedded=true" frameborder="0" width="700" height="800"  allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 .. 
     ===========
