@@ -5,7 +5,7 @@ RACECAR-MN Software Setup
 
 This page will walk you through the steps needed to set up the operating system of a RACECAR-MN. You can view the full instructions `here <https://docs.google.com/document/d/1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw/edit>`_.
 
-**NOTE:** The correct software image to use is `racecar-mn-python3-2021-09-12.img.gz <https://drive.google.com/file/d/1YbdXc9I91A5xy0UlcZ4sawaGMCQbb9WB/view?usp=sharing>` (and **not** the one listed in the setup instructions below).
+**NOTE:** The correct software image to use is  `racecar-mn-python3-2021-09-12.img.gz <https://drive.google.com/file/d/1YbdXc9I91A5xy0UlcZ4sawaGMCQbb9WB/view?usp=sharing>`_  (and **not** the one listed in the setup instructions below).
 
 |software_setup_embed|
 
